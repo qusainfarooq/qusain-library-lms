@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre": "Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:36:40"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "publication_year": 2015,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-03-12 09:15:30"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publication_year": 2008,
+    "genre": "Software Engineering",
+    "read_status": false,
+    "added_data": "2025-03-13 14:22:10"
+  },
+  {
+    "title": "Deep Learning with Python",
+    "author": "Francois Chollet",
+    "publication_year": 2017,
+    "genre": "Artificial Intelligence",
+    "read_status": false,
+    "added_data": "2025-03-14 16:45:00"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "publication_year": 1999,
+    "genre": "Software Development",
+    "read_status": true,
+    "added_data": "2025-03-15 12:10:20"
+  }
+]
